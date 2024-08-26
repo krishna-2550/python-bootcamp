@@ -52,6 +52,9 @@
 # print(str.replace("world","how are you"))
 
 
-name = input("Enter name :");
+# name = input("Enter name :");
+# print("Good morning",name)
 
-print("Good morning",name)
+name = "hello  world"
+print(name.find("  "))
+print(name.replace("  "," "))
