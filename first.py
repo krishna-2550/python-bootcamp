@@ -42,11 +42,16 @@
 
 
 # string methods
-str = "hello world"
-print(len(str))
-print(str.endswith('o'))
-print(str.count('l'))
-print(str.capitalize())
-print(str.find(" "))
-print(str.replace("world","how are you"))
-print(str.replace("world","how are you"))
+# str = "hello world"
+# print(len(str))
+# print(str.endswith('o'))
+# print(str.count('l'))
+# print(str.capitalize())
+# print(str.find(" "))
+# print(str.replace("world","how are you"))
+# print(str.replace("world","how are you"))
+
+
+name = input("Enter name :");
+
+print("Good morning",name)
