@@ -12,3 +12,4 @@ print(type(c))
 # 2 explicit typecasting
 a = 10
 print(type(a))
+print(float(a))
